@@ -1,1 +1,16 @@
- 
+ .section {
+     display: flex;
+     margin:10px;
+     width:100%;
+     overflow-x: auto;
+     height: 500px;
+ }
+
+
+ h1 {
+     margin: 20px;
+ }
+
+ .navbar {
+     margin-left:20px
+ }
